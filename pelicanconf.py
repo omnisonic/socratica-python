@@ -3,6 +3,7 @@ SITENAME = 'Socratica Python Fansite'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'simple'
 
 TIMEZONE = 'America/Boise'
 
