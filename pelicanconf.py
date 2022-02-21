@@ -1,11 +1,11 @@
 AUTHOR = 'JCTECH'
-SITENAME = 'Socratica Python Fansite'
+SITENAME = 'Socratica Pelican Fansite'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'simple'
+THEME = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/socratica-python-fansite/simple'
 
-TIMEZONE = 'America/Boise'
+TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 

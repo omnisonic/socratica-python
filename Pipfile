@@ -4,8 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-invoke = "*"
+pelican = "==4.7.1"
 livereload = "*"
+invoke = "*"
+markdown = "*"
 
 [dev-packages]
 
